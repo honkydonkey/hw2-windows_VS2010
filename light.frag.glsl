@@ -9,7 +9,7 @@
 // in vec3 mynormal; 
 // in vec4 myvertex;
 // That is certainly more modern
-
+...........
 varying vec4 color;
 varying vec3 mynormal; 
 varying vec4 myvertex; 
