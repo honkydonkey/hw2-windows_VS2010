@@ -24,7 +24,7 @@ uniform int numused;               // number of lights used
 // a buffer.  But for now, I'll just make them uniform.  
 // I use ambient, diffuse, specular, shininess as in OpenGL.  
 // But, the ambient is just additive and doesn't multiply the lights.  
-
+///////////
 uniform vec4 ambient; 
 uniform vec4 diffuse; 
 uniform vec4 specular; 
